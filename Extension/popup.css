@@ -1,0 +1,34 @@
+/* popup.css */
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+#controls {
+    margin-bottom: 10px;
+}
+
+#annotations {
+    margin-top: 10px;
+}
+
+h1,
+h2 {
+    font-size: 16px;
+    margin: 0 0 10px 0;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
